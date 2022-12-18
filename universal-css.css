@@ -1,0 +1,10 @@
+footer.footer {
+  text-align: center;
+  padding: 3px;
+  background-color: lightgrey;
+  position: absolute;
+  bottom: 0;
+  width: 98%;
+  height: 3rem;
+  border: inset;
+}
